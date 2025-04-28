@@ -8,5 +8,6 @@ The bankers.cpp complie with the form, so firstly create input.txt with the tota
 
 # Compilation:
 I used c++ to finish this project, the environment is Linux, use following commends to complie:
+
 g++ bankers.cpp -o bankers
 ./bankers
